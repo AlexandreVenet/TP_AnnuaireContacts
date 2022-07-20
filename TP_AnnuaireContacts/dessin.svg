@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="dessin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.96459612"
+     inkscape:cx="603.87969"
+     inkscape:cy="392.91056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker31145"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path31143" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5415" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5409" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3699">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;font-size:7.07774px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176944;-inkscape-font-specification:'sans-serif, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="9.4566259"
+         y="14.922163"
+         id="text1419"><tspan
+           sodipodi:role="line"
+           id="tspan1417"
+           style="fill:#ffffff;stroke-width:0.176944;-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.07774042px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="9.4566259"
+           y="14.922163">Adresse</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.115586"
+         x="18.940229"
+         y="23.28356"
+         id="text1719"><tspan
+           sodipodi:role="line"
+           id="tspan1717"
+           style="fill:#ffffff;stroke-width:0.115586"
+           x="18.940229"
+           y="23.28356">Numéro</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.115586"
+           x="18.940229"
+           y="29.062834"
+           id="tspan1995">Rue</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.115586"
+           x="18.940229"
+           y="34.842106"
+           id="tspan1997">CodePostal</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.115586"
+           x="18.940229"
+           y="40.621384"
+           id="tspan1999">Ville</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.115586"
+           x="18.940229"
+           y="46.400658"
+           id="tspan2001">Pays</tspan></text>
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:1.08132;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2753"
+         width="48.570976"
+         height="49.683029"
+         x="5.8789368"
+         y="5.6009235" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.176944"
+       x="85.35421"
+       y="15.478189"
+       id="text3703"><tspan
+         sodipodi:role="line"
+         id="tspan3701"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.176944"
+         x="85.35421"
+         y="15.478189">Personne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="94.837814"
+       y="23.839586"
+       id="text3715"><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="94.837814"
+         y="23.839586"
+         id="tspan3713">ID</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="94.837814"
+         y="29.61886"
+         id="tspan4254">FirstName</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="94.837814"
+         y="35.398136"
+         id="tspan4256">LastName</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="94.837814"
+         y="41.17741"
+         id="tspan4258">BirthDate</tspan></text>
+    <rect
+       style="fill:none;stroke:#99fff8;stroke-width:1.08132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3717"
+       width="48.570976"
+       height="49.683029"
+       x="81.77652"
+       y="6.15695" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.176944"
+       x="85.632225"
+       y="83.313393"
+       id="text4406"><tspan
+         sodipodi:role="line"
+         id="tspan4404"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke-width:0.176944"
+         x="85.632225"
+         y="83.313393">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="95.115829"
+       y="91.674789"
+       id="text4418"><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="95.115829"
+         y="91.674789"
+         id="tspan4416">Adresse</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="95.115829"
+         y="97.454063"
+         id="tspan4952">Téléphone</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="95.115829"
+         y="103.23334"
+         id="tspan4954">Email</tspan></text>
+    <rect
+       style="fill:none;stroke:#99fff8;stroke-width:1.08132;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4420"
+       width="48.570976"
+       height="49.683029"
+       x="82.054535"
+       y="73.992157" />
+    <path
+       style="fill:#00ffff;stroke:#00ffff;stroke-width:1.06715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 96.074138,73.7706 95.708778,58.833997"
+       id="path5267" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.176944"
+       x="159.01826"
+       y="15.478189"
+       id="text5845"><tspan
+         sodipodi:role="line"
+         id="tspan5843"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff5555;stroke-width:0.176944"
+         x="159.01826"
+         y="15.478189">Annuaire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="168.50186"
+       y="23.839586"
+       id="text5857"><tspan
+         sodipodi:role="line"
+         style="fill:#ff5555;stroke-width:0.115586"
+         x="168.50186"
+         y="23.839586"
+         id="tspan5855">Contacts (liste)</tspan></text>
+    <rect
+       style="fill:none;stroke:#ff9999;stroke-width:1.19892;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5859"
+       width="59.851913"
+       height="49.56543"
+       x="155.49939"
+       y="6.2157502" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="102.02048"
+       y="67.299622"
+       id="text7960"><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke-width:0.115586"
+         x="102.02048"
+         y="67.299622"
+         id="tspan11160">Hérite de</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.176944"
+       x="189.86111"
+       y="85.38752"
+       id="text11934"><tspan
+         sodipodi:role="line"
+         id="tspan11932"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffc700;fill-opacity:1;stroke-width:0.176944"
+         x="189.86111"
+         y="85.38752">IHM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="253.86131"
+       y="85.675369"
+       id="text11938"><tspan
+         sodipodi:role="line"
+         style="fill:#ffc700;fill-opacity:1;stroke-width:0.115586"
+         x="253.86131"
+         y="85.675369"
+         id="tspan11936">Contrôles</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffdf99;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15723"
+       width="100.72691"
+       height="49.294491"
+       x="183.30658"
+       y="73.491394" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="193.17386"
+       y="97.593674"
+       id="text16174"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.115586"
+         x="193.17386"
+         y="97.593674"
+         id="tspan16172">Ajouter un contact</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.115586"
+         x="193.17386"
+         y="103.37295"
+         id="tspan16198">Modifier un contact</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.115586"
+         x="193.17386"
+         y="109.15223"
+         id="tspan16200">Supprimer un contact</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.115586"
+         x="193.17386"
+         y="114.9315"
+         id="tspan16202">Rechercher un contact par son nom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176944"
+       x="18.152807"
+       y="165.48149"
+       id="text26434"><tspan
+         sodipodi:role="line"
+         id="tspan26432"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.07774px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.176944"
+         x="18.152807"
+         y="165.48149">Program</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="78.473022"
+       y="165.76933"
+       id="text26438"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.115586"
+         x="78.473022"
+         y="165.76933"
+         id="tspan26436">Lancement</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect26440"
+       width="101.06305"
+       height="21.652596"
+       x="11.430204"
+       y="153.4173" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker31145)"
+       d="m 112.73501,169.1814 c 48.55163,-0.75674 91.8893,-5.80239 95.72874,-43.33852"
+       id="path30791"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.62342px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.115586"
+       x="148.37624"
+       y="158.36537"
+       id="text31155"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.115586"
+         x="148.37624"
+         y="158.36537"
+         id="tspan31153">Instanciation</tspan></text>
+  </g>
+</svg>
